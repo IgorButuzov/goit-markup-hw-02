@@ -1,0 +1,133 @@
+.body{
+    background: #FFFFFF;
+}
+.body h2{
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    font-style: normal;
+    
+    color: #212121;
+}
+
+
+.logoweb {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+}
+.logostudio {
+    font-family: 'Raleway';
+    
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    color: #000000;
+}
+
+.navigation{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    
+    color: #212121;
+}
+.navigation :hover{
+    color: #2196F3;
+}
+
+.contacts{
+       
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    
+    color: #757575;
+    
+}
+.contacts :hover{
+    color: #2196F3;
+}
+
+.hero{
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    font-style: normal;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    width: 696px;
+    color: #FFFFFF;
+    background-color: #2F303A;
+}
+
+.button{
+    left: 692px;
+    top: 430px;
+    width: 216px;
+    height: 50px;
+    
+    background: #2196F3;
+}
+.button:hover,
+.button:focus{
+    background: #dde7f0;
+}
+
+.benefits h3{
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    font-style: normal;
+    color: #212121;
+}
+.benefits p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+
+.ourteam h3{
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    font-style: normal;
+    
+    color: #212121;
+}
+.ourteam p{
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    font-style: normal;
+    
+    color: #757575;
+}
