@@ -53,6 +53,7 @@ ul{
     color: #000000;
 }
 
+
 .navigation{
     font-weight: 500;
     font-size: 14px;
@@ -95,8 +96,18 @@ ul{
 .contact-list:hover,
 .contact-list:focus,
 .contact-link:hover,
-.contact-link:focus{
+.contact-link:focus,
+.header-contacts:hover,
+.header-contacts:focus{
     color: var(--hover-color);
+}
+.header-contacts{
+    font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 1.71;
+        letter-spacing: 0.03em;
+        color: var(--p-color);
 }
 
 .hero{
@@ -185,6 +196,10 @@ ul{
 .footer{
     background-color: #2F303A;
 }
+
+.footer-logostudio {
+    color: #ffffff;}
+
 .logostudio-footer{
     font-family: 'Raleway';
     font-weight: 700;
